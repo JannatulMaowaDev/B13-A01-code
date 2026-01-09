@@ -269,3 +269,54 @@ nav .links a {
   line-height: 20px;
   text-align: center;
 }
+
+/* second brain section start  */
+
+.second-brain-section{
+  display: flex;
+  gap: 60px;
+  padding: 120px 0px;
+}
+.text-section{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 30px;
+margin-top: 80px;
+padding-right: 80px;
+}
+.text-section p{
+color:  rgba(70, 145, 101, 1);
+font-weight: 500;
+line-height: 20px;
+text-align: left;
+}
+.text-section h2{
+color: rgba(0, 25, 49, 1);
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+text-align: left;
+}
+.text-section .description{
+color: rgba(98, 115, 130, 1);
+font-weight: 400;
+line-height: 20px;
+text-align: left;
+}
+.CheckCircle img{
+  width: 20px;
+  height: 20px;
+  
+}
+.CheckCircle p{
+color:  rgba(0, 25, 49, 1);
+font-weight: 500;
+line-height: 20px;
+text-align: left;
+margin-bottom: 16px;
+}
+.CheckCircle{
+  display: flex;
+  gap: 6px;
+}
